@@ -1,0 +1,4 @@
+cirq
+numpy
+jupyter
+pytest
